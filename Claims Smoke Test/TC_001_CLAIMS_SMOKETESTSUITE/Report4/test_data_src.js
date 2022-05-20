@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'H:\\HPA_Test\\Test Resources_Claims\\Scripts\\Claims Smoke Test\\TC_001_CLAIMS_SMOKETESTSUITE\\Report4',namePairs:[]}]};

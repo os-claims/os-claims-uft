@@ -1,0 +1,4682 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>LoadFunctionLibrary</Name>
+    <Description>LoadFunctionLibrary function passed</Description>
+    <StartTime>2022-05-02 11:41:17</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>3645523787504ecfb98c46cb5d1ff3fd</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\757792cb-db12-41ee-b8ef-8c5f42511184.jpeg" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>LoadFunctionLibrary</Name>
+    <Description>LoadFunctionLibrary function passed</Description>
+    <StartTime>2022-05-02 11:41:19</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>3645523787504ecfb98c46cb5d1ff3fd</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\a23b4a16-fa18-4fcd-a74c-37b5747721c9.jpeg" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>LoadFunctionLibrary</Name>
+    <Description>LoadFunctionLibrary function passed</Description>
+    <StartTime>2022-05-02 11:41:19</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>3645523787504ecfb98c46cb5d1ff3fd</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\edf434e9-bf20-4c19-bff5-51d8185ce634.jpeg" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>LoadFunctionLibrary</Name>
+    <Description>LoadFunctionLibrary function passed</Description>
+    <StartTime>2022-05-02 11:41:19</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>3645523787504ecfb98c46cb5d1ff3fd</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\db682e9f-bae6-45d8-9b04-1d5f7ac6a03f.jpeg" />
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Test Information</Name>
+    <Description>datasheetused:VUE360_SMOKETESTSUITE.xlsServer Used:hpasdevweb02</Description>
+    <StartTime>2022-05-02 11:41:19</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Find Row No</Name>
+    <Description>Row No ofTC_002_VUE360 _Edit_MemberDemographics_Validateedited member details saved successfully:11</Description>
+    <StartTime>2022-05-02 11:41:26</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Find Row No</Name>
+    <Description>Row No ofTC_002_VUE360 _Edit_MemberDemographics_Validateedited member details saved successfully_END:59</Description>
+    <StartTime>2022-05-02 11:41:30</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Find Row No</Name>
+    <Description>Row No ofLOGOFF:5</Description>
+    <StartTime>2022-05-02 11:41:34</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Find Row No</Name>
+    <Description>Row No ofLOGOFF_END:10</Description>
+    <StartTime>2022-05-02 11:41:37</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>SystemUtil.Run "C:\Program Files\Google\Chrome\Application\chrome.exe",1</Name>
+    <StartTime>2022-05-02 11:41:46</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>e71570da5f734b24879f6796243f8cd5</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\b6aeaa97-b91c-454b-a896-4909f27a9d11.jpeg" />
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Brw_VUE360.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:42:02</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\5839e541-a889-4c29-96a7-1eb2dcd4a5a8.jpeg" highlight="0,0,1920,1032" />
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_Uname.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:42:03</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_SignIn]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_Uname]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[email]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[UserName]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\814b4ad2-15e8-4687-a018-03047e90d852.jpeg" highlight="1257,467,525,45" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_Uname.Set</Name>
+    <Description>"Test\M91"</Description>
+    <StartTime>2022-05-02 11:42:03</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_SignIn]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_Uname]]></Name>
+          </Object>
+        </Path>
+        <Operation>Set</Operation>
+        <OperationData><![CDATA["Test\M91"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[email]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[UserName]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\ae520542-99b3-4333-8fb0-a9f5b76da9a4.jpeg" highlight="1257,467,525,45" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_Password.SetSecure</Name>
+    <Description>"615199fa2d774457381092a9eb8e78f073dd18e76ec09f98"</Description>
+    <StartTime>2022-05-02 11:42:06</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_SignIn]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_Password]]></Name>
+          </Object>
+        </Path>
+        <Operation>SetSecure</Operation>
+        <OperationData><![CDATA["615199fa2d774457381092a9eb8e78f073dd18e76ec09f98"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[password]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[Password]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\8725435e-3ac6-4ae1-8e72-b8b59171296d.jpeg" highlight="1257,524,525,45" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Btn_Submit.Click</Name>
+    <Description />
+    <StartTime>2022-05-02 11:42:10</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_SignIn]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Btn_Submit]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Sign in]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[SPAN]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>faaf48fa190c4b889910f56ae11688c0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\dec2ec66-a4c3-40fb-afce-e4a44a9b8bf5.jpeg" highlight="1257,630,128,47" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_SignIn</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:42:03</StartTime>
+    <Duration>7</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_SignIn]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:42:02</StartTime>
+    <Duration>8</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Launched application and logged in</Name>
+    <Description>Application launched successfully:http://hpastestweb01.test.mapshc.com:8010/</Description>
+    <StartTime>2022-05-02 11:42:10</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>NA</Name>
+    <Description>Succeded at Row No:    1</Description>
+    <StartTime>2022-05-02 11:42:10</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>NA</Name>
+    <Description>Succeded at Row No:    2,Value used:7</Description>
+    <StartTime>2022-05-02 11:42:18</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Optional</Name>
+    <Description>Error No: - 424  -  Error Description:-  Object required</Description>
+    <StartTime>2022-05-02 11:42:19</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Continue</Name>
+    <Description>Failed at Row No:3</Description>
+    <StartTime>2022-05-02 11:42:19</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Lnk_Member.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:42:21</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_Member]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[Lnk_Member]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[Member]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>161668a4811d41cf86d91d6d1fc34c6d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\cd2d028e-f9fb-4db7-a03e-8186b877f3da.jpeg" highlight="106,375,158,131" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_Member</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:42:21</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_Member]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:42:21</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Member</Name>
+    <Description>Succeded at Row No:    11</Description>
+    <StartTime>2022-05-02 11:42:21</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Lnk_Member.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:42:22</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_Member]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[Lnk_Member]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[Member]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>161668a4811d41cf86d91d6d1fc34c6d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\0520008d-d355-42f8-a27a-83bda5f9bf39.jpeg" highlight="106,375,158,131" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Lnk_Member.Click</Name>
+    <Description />
+    <StartTime>2022-05-02 11:42:23</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_Member]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[Lnk_Member]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[Member]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>161668a4811d41cf86d91d6d1fc34c6d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\6632ca33-41ba-4d51-833d-576e92eba5d6.jpeg" highlight="106,375,158,131" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_Member</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:42:22</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_Member]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:42:22</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Member</Name>
+    <Description>Succeded at Row No:    12</Description>
+    <StartTime>2022-05-02 11:42:23</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_MemberID.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:42:26</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberSearch]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_MemberID]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[txtMemberId]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\df94ebc7-4d28-4e51-9baa-3b2fbefc3506.jpeg" highlight="498,769,221,36" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_MemberSearch</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:42:26</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberSearch]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:42:26</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>MemberID</Name>
+    <Description>Succeded at Row No:    13</Description>
+    <StartTime>2022-05-02 11:42:26</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_MemberID.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:42:27</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberSearch]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_MemberID]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[txtMemberId]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\65671316-b388-4ceb-9f1e-af73d49392b7.jpeg" highlight="498,769,221,36" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_MemberID.Set</Name>
+    <Description>"7X1088888803"</Description>
+    <StartTime>2022-05-02 11:42:27</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberSearch]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_MemberID]]></Name>
+          </Object>
+        </Path>
+        <Operation>Set</Operation>
+        <OperationData><![CDATA["7X1088888803"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[txtMemberId]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\388396af-7340-4a31-b27e-5bcfa74a8526.jpeg" highlight="498,769,221,36" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_MemberSearch</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:42:27</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberSearch]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:42:27</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>MemberID</Name>
+    <Description>Succeded at Row No:    14,Value used:7X1088888803</Description>
+    <StartTime>2022-05-02 11:42:28</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>NA</Name>
+    <Description>Succeded at Row No:    15,Value used:VUE360</Description>
+    <StartTime>2022-05-02 11:42:35</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Pge_VUE360_MemberSearch.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:42:36</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberSearch]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\1b5f295c-3fc2-4237-b090-4355ae2dc2aa.jpeg" highlight="12,186,1920,846" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Btn_Submit.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:42:36</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberSearch]]></Name>
+          </Object>
+          <Object>
+            <Type>WebButton</Type>
+            <Name><![CDATA[Btn_Submit]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[button]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[SUBMIT]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>d7e56c892cec46588a4b6fde49e18787</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\ccce9ac5-c9ce-460d-8a12-b8185dab0182.jpeg" highlight="125,939,107,41" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Btn_Submit.Click</Name>
+    <Description />
+    <StartTime>2022-05-02 11:42:38</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberSearch]]></Name>
+          </Object>
+          <Object>
+            <Type>WebButton</Type>
+            <Name><![CDATA[Btn_Submit]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[button]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[SUBMIT]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>d7e56c892cec46588a4b6fde49e18787</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\dbf38429-679b-4ddc-99b8-d4794c37b7ab.jpeg" highlight="125,939,107,41" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_MemberSearch</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:42:36</StartTime>
+    <Duration>5</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberSearch]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:42:36</StartTime>
+    <Duration>5</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Submit</Name>
+    <Description>Succeded at Row No:    16</Description>
+    <StartTime>2022-05-02 11:42:41</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>NA</Name>
+    <Description>Succeded at Row No:    17,Value used:3</Description>
+    <StartTime>2022-05-02 11:42:45</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Ele_Summary.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:42:46</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Ele_Summary]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Summary]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[SPAN]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>faaf48fa190c4b889910f56ae11688c0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\6bb39b30-bf33-4d6b-a639-51f2406a916d.jpeg" highlight="124,661,143,47" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Ele_Summary.Click</Name>
+    <Description />
+    <StartTime>2022-05-02 11:42:47</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Ele_Summary]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Summary]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[SPAN]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>faaf48fa190c4b889910f56ae11688c0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\3acc0ba4-f3d8-4cf5-a857-704d5a1d00de.jpeg" highlight="124,661,143,47" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_MemberTabs</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:42:46</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:42:46</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Summary</Name>
+    <Description>Succeded at Row No:    18</Description>
+    <StartTime>2022-05-02 11:42:47</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>NA</Name>
+    <Description>Succeded at Row No:    19,Value used:3</Description>
+    <StartTime>2022-05-02 11:42:51</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>NA</Name>
+    <Description>Succeded at Row No:    20,Value used:VUE360</Description>
+    <StartTime>2022-05-02 11:42:58</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Ele_Demographics.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:42:59</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Ele_Demographics]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Demographics]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[SPAN]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>faaf48fa190c4b889910f56ae11688c0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\d9753620-9c1e-447e-ae82-c25ae820ea50.jpeg" highlight="106,706,185,42" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Ele_Demographics.Click</Name>
+    <Description />
+    <StartTime>2022-05-02 11:42:59</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Ele_Demographics]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Demographics]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[SPAN]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>faaf48fa190c4b889910f56ae11688c0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\78036ef1-b979-4c68-9a99-ba667646b66a.jpeg" highlight="106,186,185,42" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_MemberTabs</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:42:59</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:42:59</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Demographics</Name>
+    <Description>Succeded at Row No:    21</Description>
+    <StartTime>2022-05-02 11:42:59</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>COMMON_VERIFICATION:Q_I_VALIDATE_WEBELEMENT</Name>
+    <Description>WebElement  :innertext=Attributes matches with expected value Attributes</Description>
+    <StartTime>2022-05-02 11:43:00</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Attributes</Name>
+    <Description>Succeded at Row No:    22,Value used:Attributes</Description>
+    <StartTime>2022-05-02 11:43:00</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>COMMON_VERIFICATION:Q_I_VALIDATE_WEBELEMENT</Name>
+    <Description>WebElement  :innertext=Relationships matches with expected value Relationships</Description>
+    <StartTime>2022-05-02 11:43:01</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Relationships</Name>
+    <Description>Succeded at Row No:    23,Value used:Relationships</Description>
+    <StartTime>2022-05-02 11:43:02</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>COMMON_VERIFICATION:Q_I_VALIDATE_WEBELEMENT</Name>
+    <Description>WebElement  :innertext=Personal Representatives matches with expected value Personal Representatives</Description>
+    <StartTime>2022-05-02 11:43:02</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>PersonalRepresentatives</Name>
+    <Description>Succeded at Row No:    24,Value used:Personal Representatives</Description>
+    <StartTime>2022-05-02 11:43:03</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>COMMON_VERIFICATION:Q_I_VALIDATE_WEBELEMENT</Name>
+    <Description>WebElement  :innertext=Share of Cost matches with expected value Share of Cost</Description>
+    <StartTime>2022-05-02 11:43:04</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>ShareofCost</Name>
+    <Description>Succeded at Row No:    25,Value used:Share of Cost</Description>
+    <StartTime>2022-05-02 11:43:04</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>COMMON_VERIFICATION:Q_I_VALIDATE_WEBELEMENT</Name>
+    <Description>WebElement  :innertext=Audit matches with expected value Audit</Description>
+    <StartTime>2022-05-02 11:43:05</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Audit</Name>
+    <Description>Succeded at Row No:    26,Value used:Audit</Description>
+    <StartTime>2022-05-02 11:43:05</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>NA</Name>
+    <Description>Succeded at Row No:    27,Value used:VUE360</Description>
+    <StartTime>2022-05-02 11:43:11</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Ele_EditDemographics.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:43:12</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Ele_EditDemographics]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Edit]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>faaf48fa190c4b889910f56ae11688c0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\884489cd-03ad-49e8-a938-25646d817ea7.jpeg" highlight="1746,263,35,20" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Ele_EditDemographics.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:43:13</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Ele_EditDemographics]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Edit]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>faaf48fa190c4b889910f56ae11688c0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\cf249a12-e50c-4615-92e3-a35d61bb3a48.jpeg" highlight="1746,263,35,20" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Ele_EditDemographics.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:43:14</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Ele_EditDemographics]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Edit]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>faaf48fa190c4b889910f56ae11688c0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\2b719cce-965f-4482-b0fa-09f234eaae69.jpeg" highlight="1746,263,35,20" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Ele_EditDemographics.Click</Name>
+    <Description />
+    <StartTime>2022-05-02 11:43:14</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Ele_EditDemographics]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Edit]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>faaf48fa190c4b889910f56ae11688c0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\04ff2931-1d38-4cd3-8ac0-4dc321e28e82.jpeg" highlight="12,186,0,0" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_MemberTabs</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:43:12</StartTime>
+    <Duration>3</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:43:12</StartTime>
+    <Duration>3</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>EditDemographics</Name>
+    <Description>Succeded at Row No:    29</Description>
+    <StartTime>2022-05-02 11:43:15</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>NA</Name>
+    <Description>Succeded at Row No:    30,Value used:VUE360</Description>
+    <StartTime>2022-05-02 11:43:21</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>NA</Name>
+    <Description>Succeded at Row No:    31,Value used:3</Description>
+    <StartTime>2022-05-02 11:43:25</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_MemberMobile.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:43:26</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_MemberMobile]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[txtMemberMobile]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\ca745c30-e7cc-465d-94c6-0369d82d2475.jpeg" highlight="1337,389,407,41" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_MemberTabs</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:43:26</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:43:26</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>WebEdit is editable</Name>
+    <Description />
+    <StartTime>2022-05-02 11:43:27</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>MemberMobile</Name>
+    <Description>Succeded at Row No:    32</Description>
+    <StartTime>2022-05-02 11:43:27</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_MemberPhone.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:43:28</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_MemberPhone]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[txtPhone]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\af924850-19c9-40c6-ad73-bfe86b028b43.jpeg" highlight="1337,442,407,41" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_MemberTabs</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:43:28</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:43:28</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>WebEdit is editable</Name>
+    <Description />
+    <StartTime>2022-05-02 11:43:28</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>MemberPhone</Name>
+    <Description>Succeded at Row No:    33</Description>
+    <StartTime>2022-05-02 11:43:28</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_MemberEmail.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:43:29</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_MemberEmail]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[txtMemberEmail]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\df09d1f6-b29e-49ad-86c3-e61247a6613d.jpeg" highlight="1338,496,404,36" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_MemberTabs</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:43:29</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:43:29</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>WebEdit is editable</Name>
+    <Description />
+    <StartTime>2022-05-02 11:43:29</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>MemberEmail</Name>
+    <Description>Succeded at Row No:    34</Description>
+    <StartTime>2022-05-02 11:43:30</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_EmergencyContact.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:43:31</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_EmergencyContact]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[txtEmergencyContact]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\c35d979f-b792-4360-bb28-c036292f1c5e.jpeg" highlight="1338,547,404,36" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_MemberTabs</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:43:31</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:43:31</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>WebEdit is editable</Name>
+    <Description />
+    <StartTime>2022-05-02 11:43:31</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>EmergencyContact</Name>
+    <Description>Succeded at Row No:    35</Description>
+    <StartTime>2022-05-02 11:43:31</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_EmergencyRelationship.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:43:32</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_EmergencyRelationship]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[txtEmergencyRelationship]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\e4addc47-212c-4ad8-a16e-06c99142b551.jpeg" highlight="1338,598,404,36" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_MemberTabs</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:43:32</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:43:32</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>WebEdit is editable</Name>
+    <Description />
+    <StartTime>2022-05-02 11:43:32</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>EmergencyRelationship</Name>
+    <Description>Succeded at Row No:    36</Description>
+    <StartTime>2022-05-02 11:43:32</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_EmergencyContactPh.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:43:33</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_EmergencyContactPh]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[txtEmergencyContactVal]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\94e9fa47-e1a4-4e03-9e40-da33d307af21.jpeg" highlight="1337,647,407,41" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_MemberTabs</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:43:33</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:43:33</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>WebEdit is editable</Name>
+    <Description />
+    <StartTime>2022-05-02 11:43:34</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>EmergencyContactPh</Name>
+    <Description>Succeded at Row No:    37</Description>
+    <StartTime>2022-05-02 11:43:34</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Skip row</Name>
+    <Description>You have successfully skipped the row no 11</Description>
+    <StartTime>2022-05-02 11:43:35</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_MemberMobile.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:43:36</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_MemberMobile]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[txtMemberMobile]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\b10adb4a-a03f-444f-a12e-6fa3d0a88920.jpeg" highlight="1337,389,407,41" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_MemberMobile.Set</Name>
+    <Description>"(808) 976-5423"</Description>
+    <StartTime>2022-05-02 11:43:36</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_MemberMobile]]></Name>
+          </Object>
+        </Path>
+        <Operation>Set</Operation>
+        <OperationData><![CDATA["(808) 976-5423"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[txtMemberMobile]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\5478f107-c080-473f-9f82-dced0b2088c6.jpeg" highlight="1337,389,407,41" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_MemberTabs</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:43:36</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:43:36</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>MemberMobile</Name>
+    <Description>Succeded at Row No:    39,Value used:(808) 976-5423</Description>
+    <StartTime>2022-05-02 11:43:36</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_MemberPhone.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:43:37</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_MemberPhone]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[txtPhone]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\6d141096-a8a0-4cf7-bf49-f9f4cd06b7d9.jpeg" highlight="1337,442,407,41" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_MemberPhone.Set</Name>
+    <Description>"(808) 976-5498"</Description>
+    <StartTime>2022-05-02 11:43:38</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_MemberPhone]]></Name>
+          </Object>
+        </Path>
+        <Operation>Set</Operation>
+        <OperationData><![CDATA["(808) 976-5498"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[txtPhone]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\d2d25a57-3de2-4ecb-8dd0-bb8f61df3d0f.jpeg" highlight="1337,442,407,41" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_MemberTabs</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:43:37</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:43:37</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>MemberPhone</Name>
+    <Description>Succeded at Row No:    40,Value used:(808) 976-5498</Description>
+    <StartTime>2022-05-02 11:43:38</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_MemberEmail.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:43:39</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_MemberEmail]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[txtMemberEmail]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\f72bb95a-a9d6-4d14-8e31-b9ca4110a88a.jpeg" highlight="1338,496,404,36" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_MemberEmail.Set</Name>
+    <Description>"abc@dxc.com"</Description>
+    <StartTime>2022-05-02 11:43:39</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_MemberEmail]]></Name>
+          </Object>
+        </Path>
+        <Operation>Set</Operation>
+        <OperationData><![CDATA["abc@dxc.com"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[txtMemberEmail]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\9bbb3265-3063-44d4-901f-1c03fb235077.jpeg" highlight="1338,496,404,36" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_MemberTabs</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:43:39</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:43:39</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>MemberEmail</Name>
+    <Description>Succeded at Row No:    41,Value used:abc@dxc.com</Description>
+    <StartTime>2022-05-02 11:43:40</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>NA</Name>
+    <Description>Succeded at Row No:    42,Value used:3</Description>
+    <StartTime>2022-05-02 11:43:44</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Skip row</Name>
+    <Description>You have successfully skipped the row no 11</Description>
+    <StartTime>2022-05-02 11:43:45</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Lst_SelectReason.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:43:45</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebList</Type>
+            <Name><![CDATA[Lst_SelectReason]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[role]]></Name>
+            <Value><![CDATA[listbox]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[select]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[UL]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[Update Reason required]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>715c8acbb8d94ebfa342154216c18382</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\ef39d76d-e048-47fa-b86e-82b59c3e83c5.jpeg" highlight="12,186,0,0" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Lst_SelectReason.Select</Name>
+    <Description>"Modified Member"</Description>
+    <StartTime>2022-05-02 11:43:46</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebList</Type>
+            <Name><![CDATA[Lst_SelectReason]]></Name>
+          </Object>
+        </Path>
+        <Operation>Select</Operation>
+        <OperationData><![CDATA["Modified Member"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[role]]></Name>
+            <Value><![CDATA[listbox]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[select]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[UL]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[Update Reason required]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>715c8acbb8d94ebfa342154216c18382</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\8c5123d0-70bc-4be9-b936-3fafd52f6e5a.jpeg" highlight="12,186,0,0" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_MemberTabs</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:43:45</StartTime>
+    <Duration>2</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:43:45</StartTime>
+    <Duration>2</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>SelectReason</Name>
+    <Description>Succeded at Row No:    44,Value used:Modified Member</Description>
+    <StartTime>2022-05-02 11:43:47</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>NA</Name>
+    <Description>Succeded at Row No:    45,Value used:VUE360</Description>
+    <StartTime>2022-05-02 11:43:54</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_Comments.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:43:55</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_Comments]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[txtComments]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\5eca297d-b15c-4494-b69d-38684a2dc76f.jpeg" highlight="965,186,723,36" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_Comments.Set</Name>
+    <Description>"updating member contact"</Description>
+    <StartTime>2022-05-02 11:43:56</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_Comments]]></Name>
+          </Object>
+        </Path>
+        <Operation>Set</Operation>
+        <OperationData><![CDATA["updating member contact"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[txtComments]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\6991974f-130f-4de8-a4bd-e18e58dee34e.jpeg" highlight="965,186,723,36" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_MemberTabs</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:43:55</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:43:55</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Comments</Name>
+    <Description>Succeded at Row No:    46,Value used:updating member contact</Description>
+    <StartTime>2022-05-02 11:43:56</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Pge_VUE360_MemberTabs.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:43:57</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\a9e4fa66-492f-4199-8164-eab620a2f78f.jpeg" highlight="12,186,1920,846" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Btn_Save.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:43:58</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebButton</Type>
+            <Name><![CDATA[Btn_Save]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[button]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[SAVE]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>d7e56c892cec46588a4b6fde49e18787</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\0dc99b57-a1bc-4e7f-952a-1bc717f58a93.jpeg" highlight="106,286,84,41" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Btn_Save.Click</Name>
+    <Description />
+    <StartTime>2022-05-02 11:44:00</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+          <Object>
+            <Type>WebButton</Type>
+            <Name><![CDATA[Btn_Save]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[button]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[SAVE]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>d7e56c892cec46588a4b6fde49e18787</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\0a75ca3d-d11a-4491-b03d-67bd3c69d8c6.jpeg" highlight="106,286,84,41" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_MemberTabs</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:43:57</StartTime>
+    <Duration>6</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberTabs]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:43:57</StartTime>
+    <Duration>6</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Save</Name>
+    <Description>Succeded at Row No:    47</Description>
+    <StartTime>2022-05-02 11:44:03</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>NA</Name>
+    <Description>Succeded at Row No:    48,Value used:3</Description>
+    <StartTime>2022-05-02 11:44:07</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Lnk_Member.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:44:07</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_Member]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[Lnk_Member]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[Member]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>161668a4811d41cf86d91d6d1fc34c6d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\02bec04e-a417-4c82-a529-892f3c31c39e.jpeg" highlight="106,375,158,152" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Lnk_Member.Click</Name>
+    <Description />
+    <StartTime>2022-05-02 11:44:08</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_Member]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[Lnk_Member]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[Member]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>161668a4811d41cf86d91d6d1fc34c6d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\fdae233b-c503-4f8f-8ab0-ba7d5e7165d7.jpeg" highlight="106,375,158,152" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_Member</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:44:07</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_Member]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:44:07</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Member</Name>
+    <Description>Succeded at Row No:    49</Description>
+    <StartTime>2022-05-02 11:44:08</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>NA</Name>
+    <Description>Succeded at Row No:    50,Value used:4</Description>
+    <StartTime>2022-05-02 11:44:14</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_MemberID.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:44:15</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberSearch]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_MemberID]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[txtMemberId]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\44d64a62-07d6-4fbd-914f-747baa0f4641.jpeg" highlight="498,769,221,36" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Edt_MemberID.Set</Name>
+    <Description>"7X1088888803"</Description>
+    <StartTime>2022-05-02 11:44:15</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberSearch]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Edt_MemberID]]></Name>
+          </Object>
+        </Path>
+        <Operation>Set</Operation>
+        <OperationData><![CDATA["7X1088888803"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[txtMemberId]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f6c719d5b0364b578fb4b9587db4af30</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\4321c206-52af-4e57-b531-c1d50db527a6.jpeg" highlight="498,769,221,36" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_MemberSearch</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:44:15</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberSearch]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:44:15</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>MemberID</Name>
+    <Description>Succeded at Row No:    51,Value used:7X1088888803</Description>
+    <StartTime>2022-05-02 11:44:16</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Pge_VUE360_MemberSearch.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:44:16</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberSearch]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\460e10db-4ba1-433d-8158-9517542cf0f7.jpeg" highlight="12,186,1920,846" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Btn_Submit.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:44:17</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberSearch]]></Name>
+          </Object>
+          <Object>
+            <Type>WebButton</Type>
+            <Name><![CDATA[Btn_Submit]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[button]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[SUBMIT]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>d7e56c892cec46588a4b6fde49e18787</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\0366b22d-d0fb-423b-a0bf-c98e6bdf8fa8.jpeg" highlight="125,939,107,41" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Btn_Submit.Click</Name>
+    <Description />
+    <StartTime>2022-05-02 11:44:19</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberSearch]]></Name>
+          </Object>
+          <Object>
+            <Type>WebButton</Type>
+            <Name><![CDATA[Btn_Submit]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[button]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[SUBMIT]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>d7e56c892cec46588a4b6fde49e18787</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\ad253f7f-169c-494c-abe6-2ed8da3ce267.jpeg" highlight="125,939,107,41" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_MemberSearch</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:44:16</StartTime>
+    <Duration>6</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_MemberSearch]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:44:16</StartTime>
+    <Duration>6</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Submit</Name>
+    <Description>Succeded at Row No:    52</Description>
+    <StartTime>2022-05-02 11:44:22</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Skip row</Name>
+    <Description>You have successfully skipped the row no 11</Description>
+    <StartTime>2022-05-02 11:44:23</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>MemberMobile</Name>
+    <Description>Succeded at Row No:    54,Value used:(808) 976-5423</Description>
+    <StartTime>2022-05-02 11:44:28</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>NA</Name>
+    <Description>Succeded at Row No:    55,Value used:VUE360</Description>
+    <StartTime>2022-05-02 11:44:35</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>MemberPhone1</Name>
+    <Description>Succeded at Row No:    56,Value used:(808) 976-5498</Description>
+    <StartTime>2022-05-02 11:44:40</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>MemberEmail1</Name>
+    <Description>Succeded at Row No:    57,Value used:abc@dxc.com</Description>
+    <StartTime>2022-05-02 11:44:45</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Lnk_LogOut.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:44:46</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_Member]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[Lnk_LogOut]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>161668a4811d41cf86d91d6d1fc34c6d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\3b1ee834-681d-4dad-afd5-6febcd6101fd.jpeg" highlight="1777,211,15,26" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Lnk_LogOut.Click</Name>
+    <Description />
+    <StartTime>2022-05-02 11:44:46</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_Member]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[Lnk_LogOut]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>161668a4811d41cf86d91d6d1fc34c6d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\4e6c78d3-7314-46cb-9293-f19d147c13a2.jpeg" highlight="1777,211,15,26" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_Member</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:44:46</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_Member]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:44:46</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>LogOut</Name>
+    <Description>Succeded at Row No:    5</Description>
+    <StartTime>2022-05-02 11:44:47</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>NA</Name>
+    <Description>Succeded at Row No:    6,Value used:5</Description>
+    <StartTime>2022-05-02 11:44:53</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Ele_SignOut.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2022-05-02 11:44:53</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_Member]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Ele_SignOut]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Sign Out]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[SPAN]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>faaf48fa190c4b889910f56ae11688c0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\10439d3a-ba7f-4f9e-9446-c6ac92352601.jpeg" highlight="1613,291,69,18" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Ele_SignOut.Click</Name>
+    <Description />
+    <StartTime>2022-05-02 11:44:54</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_Member]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Ele_SignOut]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Sign Out]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[SPAN]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>faaf48fa190c4b889910f56ae11688c0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\f00b171e-d460-4857-9f49-7c05280be15f.jpeg" highlight="12,186,0,0" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Pge_VUE360_Member</Name>
+    <Description>Page</Description>
+    <StartTime>2022-05-02 11:44:53</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Pge_VUE360_Member]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>e83fafca23b54d2aaeba9d603945d4b6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:44:53</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>SignOut</Name>
+    <Description>Succeded at Row No:    7</Description>
+    <StartTime>2022-05-02 11:44:54</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Brw_VUE360.Close</Name>
+    <Description />
+    <StartTime>2022-05-02 11:44:55</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <Operation>Close</Operation>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\a407f37c-2167-48f8-99f3-663413a56081.jpeg" highlight="0,0,1920,1032" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Brw_VUE360</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2022-05-02 11:44:55</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>D:\HPA_Test_Execution\Test Resources_VUE360\Object Repositories\VUE360_REGRESSION_OR.tsr</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Brw_VUE360]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>670d123022334fd0babc0338af02da7c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>NA</Name>
+    <Description>Succeded at Row No:    8</Description>
+    <StartTime>2022-05-02 11:44:56</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>ScreenshotPath</Name>
+    <Description>Path to screenshot on the local drive:D:\HPA_Test\Working\m91\hpasdevweb02\Screenshots</Description>
+    <StartTime>2022-05-02 11:44:56</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>5f703aee48fd4dc4bd0ce297800405d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1 [GlobalDriver_Working]</Name>
+    <Description />
+    <StartTime>2022-05-02 11:41:16</StartTime>
+    <Duration>236</Duration>
+    <Result>Failed</Result>
+    <InputParameters>
+      <Parameter name="datasheetname" value="VUE360_SMOKETESTSUITE.xls" type="System.String" />
+    </InputParameters>
+    <Extension>
+      <IconKey>afd0e47080dd498a82aa4bc3cf8b3a5f</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2022-05-02 11:41:16</StartTime>
+    <Duration>236</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>afd0e47080dd498a82aa4bc3cf8b3a5f</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2022-05-02 11:41:15</StartTime>
+    <Duration>237</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>857e64586ce24b26b1ff8e624479710e</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>TC_01_VUE360_SMOKETESTSUITE</Name>
+    <ToolName>Micro Focus Unified Functional Testing</ToolName>
+    <ToolVersion>0</ToolVersion>
+    <ToolVersionStringLiteral>15.0.1</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2022-05-02 11:41:15</StartTime>
+    <Duration>237</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>5f89918ae83540afa89d2d2a2a041faa</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>00:00:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>DEV\m91</User>
+      <CpuInfo>Intel(R) Xeon(R) CPU E5-2673 v3 @ 2.40GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>14336</TotalMemory>
+      <HostName>dev.mapshc.com\AdminQALab002</HostName>
+      <OSInfo>Windows Server 2016</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Report23</ResultName>
+    <RunStartTime>2022-05-02 11:41:15</RunStartTime>
+    <Timezone>00:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>0</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>15.0.1</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>

@@ -1,0 +1,15 @@
+﻿<Properties>
+  <WatchEntry0 value="pathEnvironmentsheet" />
+  <WatchEntry1 value="intSummaryCount" />
+  <WatchEntry10 value="GetAUTRootfolder" />
+  <WatchEntry11 value="Environment.Value (&quot;INI_LEVEL&quot;)" />
+  <WatchEntry12 value="StrPath" />
+  <WatchEntry2 value="GetAUTRootfolder" />
+  <WatchEntry3 value="StrSettingspath" />
+  <WatchEntry4 value="DataTable.ImportSheet strInputFilePath,Environment.Value(&quot;IEVersion&quot;),&quot;DDT&quot;" />
+  <WatchEntry5 value="strHTMLFileName" />
+  <WatchEntry6 value="strReportFilePath" />
+  <WatchEntry7 value="Environment.Value (&quot;INI_LEVEL&quot;)" />
+  <WatchEntry8 value="strInputsheet" />
+  <WatchEntry9 value="StrSettingspath" />
+</Properties>

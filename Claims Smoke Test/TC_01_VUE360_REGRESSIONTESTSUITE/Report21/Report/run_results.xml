@@ -1,0 +1,316 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>LoadFunctionLibrary</Name>
+    <Description>LoadFunctionLibrary function passed</Description>
+    <StartTime>2022-05-02 11:28:54</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>8e35b129656547968075a15338f4772d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>LoadFunctionLibrary</Name>
+    <Description>LoadFunctionLibrary function passed</Description>
+    <StartTime>2022-05-02 11:28:57</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>8e35b129656547968075a15338f4772d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>LoadFunctionLibrary</Name>
+    <Description>LoadFunctionLibrary function passed</Description>
+    <StartTime>2022-05-02 11:28:58</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>8e35b129656547968075a15338f4772d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>LoadFunctionLibrary</Name>
+    <Description>LoadFunctionLibrary function passed</Description>
+    <StartTime>2022-05-02 11:28:58</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>8e35b129656547968075a15338f4772d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Test Information</Name>
+    <Description>datasheetused:VUE360_SMOKETESTSUITE.xlsServer Used:hpasdevweb02</Description>
+    <StartTime>2022-05-02 11:28:59</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>b6ebe3c929004f8ea28620ab3e0037fe</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Find Row No</Name>
+    <Description>Row No ofTC_002_VUE360 _Edit_MemberDemographics_Validateedited member details saved successfully:11</Description>
+    <StartTime>2022-05-02 11:29:13</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>b6ebe3c929004f8ea28620ab3e0037fe</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Find Row No</Name>
+    <Description>Row No ofTC_002_VUE360 _Edit_MemberDemographics_Validateedited member details saved successfully_END:59</Description>
+    <StartTime>2022-05-02 11:29:25</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>b6ebe3c929004f8ea28620ab3e0037fe</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Find Row No</Name>
+    <Description>Row No ofLOGOFF:5</Description>
+    <StartTime>2022-05-02 11:29:32</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>b6ebe3c929004f8ea28620ab3e0037fe</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Find Row No</Name>
+    <Description>Row No ofLOGOFF_END:10</Description>
+    <StartTime>2022-05-02 11:29:42</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>b6ebe3c929004f8ea28620ab3e0037fe</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>SystemUtil.Run "C:\Program Files\Google\Chrome\Application\chrome.exe",1</Name>
+    <StartTime>2022-05-02 11:29:52</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>b86fa954058c4c76b72ec84735c308b0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\51b1cb13-80ae-46cc-9232-253ba1134c9a.jpeg" />
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Launch application</Name>
+    <Description>Application launched successfully:http://hpastestweb01.test.mapshc.com:8010/</Description>
+    <StartTime>2022-05-02 11:29:59</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>b6ebe3c929004f8ea28620ab3e0037fe</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>NA</Name>
+    <Description>Succeded at Row No:    1</Description>
+    <StartTime>2022-05-02 11:30:00</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>b6ebe3c929004f8ea28620ab3e0037fe</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>NA</Name>
+    <Description>Succeded at Row No:    2,Value used:7</Description>
+    <StartTime>2022-05-02 11:30:10</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>b6ebe3c929004f8ea28620ab3e0037fe</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Optional</Name>
+    <Description>Error No: - 424  -  Error Description:-  Object required</Description>
+    <StartTime>2022-05-02 11:30:11</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>b6ebe3c929004f8ea28620ab3e0037fe</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Continue</Name>
+    <Description>Failed at Row No:3</Description>
+    <StartTime>2022-05-02 11:30:12</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>b6ebe3c929004f8ea28620ab3e0037fe</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Member</Name>
+    <Description>Failed at Row No:11</Description>
+    <StartTime>2022-05-02 11:30:16</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>b6ebe3c929004f8ea28620ab3e0037fe</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>LogOut</Name>
+    <Description>Failed at Row No:5</Description>
+    <StartTime>2022-05-02 11:30:18</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>b6ebe3c929004f8ea28620ab3e0037fe</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>ScreenshotPath</Name>
+    <Description>Path to screenshot on the local drive:D:\HPA_Test\Working\m91\hpasdevweb02\Screenshots</Description>
+    <StartTime>2022-05-02 11:30:18</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>b6ebe3c929004f8ea28620ab3e0037fe</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1 [GlobalDriver_Working]</Name>
+    <Description />
+    <StartTime>2022-05-02 11:28:51</StartTime>
+    <Duration>111</Duration>
+    <Result>Failed</Result>
+    <InputParameters>
+      <Parameter name="datasheetname" value="VUE360_SMOKETESTSUITE.xls" type="System.String" />
+    </InputParameters>
+    <Extension>
+      <IconKey>61e59f3a614f4576bf1f3cc8bff1f07c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2022-05-02 11:28:51</StartTime>
+    <Duration>111</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>61e59f3a614f4576bf1f3cc8bff1f07c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2022-05-02 11:28:51</StartTime>
+    <Duration>111</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>af53d2aefbb94c729bfaf6acc3870f01</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>TC_01_VUE360_SMOKETESTSUITE</Name>
+    <ToolName>Micro Focus Unified Functional Testing</ToolName>
+    <ToolVersion>0</ToolVersion>
+    <ToolVersionStringLiteral>15.0.1</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2022-05-02 11:28:50</StartTime>
+    <Duration>112</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>fcfbb86ce789438bbed81d393a8eb01d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>00:00:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>DEV\m91</User>
+      <CpuInfo>Intel(R) Xeon(R) CPU E5-2673 v3 @ 2.40GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>14336</TotalMemory>
+      <HostName>dev.mapshc.com\AdminQALab002</HostName>
+      <OSInfo>Windows Server 2016</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Report21</ResultName>
+    <RunStartTime>2022-05-02 11:28:50</RunStartTime>
+    <Timezone>00:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>0</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>15.0.1</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>
